@@ -3,7 +3,7 @@ compression-level = 9         # compression level for module zips. between 1 and
 logging-to-file = true        # enables logging of every patch process to a seperate file
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1             # max number of concurrent building jobs
-build-mindetach-module = true
+build-mindetach-module = false
 
 # add 'enabled = false' for not patching a specific app
 [YouTube]
@@ -41,7 +41,7 @@ arch = "arm-v7a"
 [Twitter]
 build-mode = "apk"
 excluded-patches = "dynamic-color hide-recommended-users hide-views-stats monochrome-icon"
-version = "auto"
+version = "9.76.0-release.0"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
 [Reddit]
@@ -101,4 +101,5 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
 enabled = true
 build-mode = "apk"
 version = "auto"
+arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
