@@ -12,7 +12,7 @@ Patches: revanced-patches-2.164.0.jar
 
   
 **App Versions:**  
-Twitter: 9.71.0-release.0  
+Twitter: 9.79.0-release.1  
 Reddit: 2023.05.0  
 TikTok: 27.8.3  
 
