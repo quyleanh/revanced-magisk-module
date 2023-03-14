@@ -43,7 +43,7 @@ arch = "arm-v7a"
 build-mode = "apk"
 merge-integrations = true
 excluded-patches = "hide-views-stats"
-version = "9.78.0-release.0"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitter-inc/twitter/"
 
 [Reddit]
