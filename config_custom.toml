@@ -122,3 +122,7 @@ uptodown-dlurl = "https://my-expenses.en.uptodown.com/android"
 [NyxMusicPlayer]
 enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/awedea/nyx-music-player/"
+
+[Messenger]
+enabled = true
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
