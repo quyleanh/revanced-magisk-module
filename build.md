@@ -56,6 +56,8 @@ NovaLauncher: 7.0.57
 NetGuard: 2.303  
 IrPlus: 1.9.13  
 MyExpenses: 3.4.9  
+NyxMusicPlayer (arm64-v8a): 2.2.5  
+Messenger (arm64-v8a): 405.0.0.16.112  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
