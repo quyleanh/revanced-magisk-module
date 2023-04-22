@@ -113,6 +113,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/binarymode/irplus-infrared-remo
 
 [Instagram]
 enabled = true
+arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 
 [MyExpenses]
@@ -121,8 +122,10 @@ uptodown-dlurl = "https://my-expenses.en.uptodown.com/android"
 
 [NyxMusicPlayer]
 enabled = true
+arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/awedea/nyx-music-player/"
 
 [Messenger]
 enabled = true
+arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
