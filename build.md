@@ -1,6 +1,63 @@
-CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.107.0.apk  
-Patches: revanced-patches-2.173.0.jar  
+YouTube: 18.16.37  
+YouTube-Extended: 18.17.43  
+Music-arm64: 5.39.52  
+Music-arm: 5.39.52  
+Twitter: 9.89.0-release.1  
+Twitch: 14.6.1  
+TikTok: 27.8.3  
+Reddit: 2023.12.0  
+Spotify: 8.8.36.522  
+Citra: bed6a4f12  
+Backdrops: 4.52  
+WarnWetter: 4.1.1  
+IconPackStudio: 2.1 build 028  
+Windyapp: 34.0.2  
+TickTick: 6.6.1.6  
+Tasker: 6.1.27  
+NovaLauncher: 7.0.57  
+NetGuard: 2.303  
+IrPlus: 1.9.13  
+MyExpenses: 3.4.9  
+VSCO: 321  
+
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
+
+[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+
+---
+Changelog:  
+CLI: j-hc/revanced-cli-2.22.0-all.jar  
+Integrations: inotia00/revanced-integrations-0.107.10.apk  
+Patches: inotia00/revanced-patches-2.173.10.jar  
+
+YouTube
+==
+- feat(youtube/default-video-quality): rollback to previous commit
+- feat(youtube/hide-general-ads): added some exceptions
+- feat(youtube/hide-seekbar): updated patch description https://github.com/inotia00/ReVanced_Extended/issues/1013
+- fix(youtube/protobuf-spoof): playing a clip will play the video from the start https://github.com/inotia00/ReVanced_Extended/issues/999
+- fix(youtube/protobuf-spoof): subtitles appear at top when you watch related shorts https://github.com/inotia00/ReVanced_Extended/issues/1011
+- fix(youtube/sponsorblock): not reflected in the patch information
+- feat(youtube/translations): update translation
+`Chinese Simplified`, `Greek`, `Indonesian`, `Italian`, `Japanese`, `Russian`, `Spanish`, `Vietnamese`
+
+
+YouTube Music
+==
+- feat(music/hide-new-playlist-button): change patch name https://github.com/inotia00/ReVanced_Extended/issues/983
+- feat(music/translations): update translation
+`Chinese Simplified`
+
+
+※ Compatible ReVanced Manager: v1.1.0
+[Crowdin translation]
+- [European Countries](https://crowdin.com/project/revancedextendedeu)
+- [Other Countries](https://crowdin.com/project/revancedextended)
+---
+  
+CLI: j-hc/revanced-cli-2.22.0-all.jar  
+Integrations: revanced/revanced-integrations-0.107.0.apk  
+Patches: revanced/revanced-patches-2.173.0.jar  
 
 ### [2.173.0](https://github.com/revanced/revanced-patches/compare/v2.172.0...v2.173.0) (2023-05-02)
 ### Features
@@ -11,31 +68,5 @@ Patches: revanced-patches-2.173.0.jar
 * **youtube:** bump compatibility to `18.16.37` ([fe3fdd5](https://github.com/revanced/revanced-patches/commit/fe3fdd5c6cb186bcebc2f86b1d5b597109b25cb6))
 * **youtube:** support version `18.16.37` ([8beb5ea](https://github.com/revanced/revanced-patches/commit/8beb5ea860284be915c0ef0c6039821a50c14fa8))
 
-  
-**App Versions:**  
-YouTube: 18.16.37  
-Music (arm64-v8a): 5.39.52  
-Music (arm-v7a): 5.39.52  
-Twitter: 9.86.0-release.0  
-Reddit: 2023.12.0  
-Twitch: 14.6.1  
-TikTok: 27.8.3  
-Spotify: 8.8.28.409  
-Citra (arm64-v8a): bed6a4f12  
-Backdrops: 4.52  
-WarnWetter: 4.1.1  
-Windyapp: 34.0.2  
-IconPackStudio: 2.1 build 028  
-TickTick (arm64-v8a): 6.6.0.2  
-Tasker: 6.0.9  
-NovaLauncher: 7.0.57  
-NetGuard: 2.303  
-IrPlus: 1.9.13  
-Instagram (arm64-v8a): 281.0.0.19.105  
-MyExpenses: 3.4.9  
-NyxMusicPlayer (arm64-v8a): 2.2.7  
-Messenger (arm64-v8a): 406.0.0.13.115  
-
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
-
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+---
+    
