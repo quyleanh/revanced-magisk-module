@@ -19,7 +19,10 @@ TickTick: 6.6.3.1
 NovaLauncher: 7.0.57  
 IrPlus: 1.9.13  
 NetGuard: 2.303  
+Instagram: 284.0.0.22.85  
 MyExpenses: 3.4.9  
+NyxMusicPlayer: 2.2.7  
+Messenger: 410.0.0.17.85  
 VSCO: 322  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
