@@ -2,30 +2,29 @@ YouTube: 18.19.35
 YouTube-Extended: 18.17.43  
 Music (arm64-v8a): 5.39.52  
 Music (arm-v7a): 5.39.52  
-Music-Extended (arm64-v8a): 6.03.51  
-Music-Extended (arm-v7a): 6.03.51  
-Twitter: 9.90.0-release.0  
+Music-Extended (arm64-v8a): 6.04.52  
+Twitter: 9.91.0-release.0  
 Twitch: 14.6.1  
-TikTok: 29.7.4  
+TikTok: 29.8.4  
 Reddit: 2023.21.0  
-Spotify: 8.8.38.444  
+Spotify: 8.8.40.470  
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.1.1  
 Windyapp: 34.0.2  
 IconPackStudio: 2.1 build 028  
-Tasker: 6.1.33  
 TickTick: 6.6.3.1  
+Tasker: 6.1.33  
 NovaLauncher: 7.0.57  
-IrPlus: 1.9.13  
 NetGuard: 2.303  
+IrPlus: 1.9.13  
 Instagram: 285.0.0.25.62  
 MyExpenses: 3.4.9  
 NyxMusicPlayer: 2.2.7  
 Messenger: 410.0.0.17.85  
 VSCO: 323  
 
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
