@@ -128,6 +128,10 @@ enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/vsco/vsco-cam/"
 
 [CandyLinkVPN]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/liondev-io/candylink-vpn/"
 arch = "arm64-v8a"
+
+[SyncForReddit]
+enabled = true
+apkmirror-dlurl = "https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
