@@ -1,13 +1,13 @@
 YouTube: 18.19.35  
 YouTube-Extended: 18.17.43  
-Music (arm-v7a): 5.39.52  
 Music (arm64-v8a): 5.39.52  
+Music (arm-v7a): 5.39.52  
 Music-Extended (arm-v7a): 6.05.51  
 Music-Extended (arm64-v8a): 6.05.51  
-Twitter: 9.92.0-release.0  
+Twitter: 9.93.0-release.1  
 Twitch: 14.6.1  
-TikTok: 29.9.4  
-Reddit: 2023.22.0  
+TikTok: 30.0.1  
+Reddit: 2023.23.0  
 Citra: bed6a4f12  
 Spotify: 8.8.40.470  
 Backdrops: 4.52  
@@ -19,11 +19,12 @@ Tasker: 6.1.33
 NovaLauncher: 7.0.57  
 NetGuard: 2.305  
 IrPlus: 1.9.13  
-MyExpenses: 3.4.9  
 Instagram: 275.0.0.27.98  
+MyExpenses: 3.4.9  
 NyxMusicPlayer: 2.2.7  
 Messenger: 412.0.0.15.69  
 VSCO: 323  
+SyncForReddit: v23.05.03-17:18  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
