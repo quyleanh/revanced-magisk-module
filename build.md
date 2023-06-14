@@ -1,21 +1,21 @@
 YouTube: 18.19.35  
 YouTube-Extended: 18.17.43  
-Music (arm64-v8a): 5.39.52  
 Music (arm-v7a): 5.39.52  
+Music (arm64-v8a): 5.39.52  
 Music-Extended (arm-v7a): 6.05.51  
 Music-Extended (arm64-v8a): 6.05.51  
 Twitter: 9.93.0-release.1  
 Twitch: 14.6.1  
 TikTok: 30.0.1  
 Reddit: 2023.23.0  
-Citra: bed6a4f12  
 Spotify: 8.8.40.470  
+Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.1.1  
 Windyapp: 34.0.2  
 IconPackStudio: 2.1 build 028  
-TickTick: 6.6.4.1  
 Tasker: 6.1.33  
+TickTick: 6.6.4.1  
 NovaLauncher: 7.0.57  
 NetGuard: 2.305  
 IrPlus: 1.9.13  
