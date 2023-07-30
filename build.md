@@ -3,7 +3,6 @@ Twitter: 10.0.0-release.0
 TikTok: 30.6.4  
 Reddit: 2023.29.0  
 Spotify: 8.8.50.466  
-Messenger: 419.0.0.10.49  
 Citra: bed6a4f12  
 Backdrops: 4.52  
 WarnWetter: 4.1.1  
@@ -14,8 +13,8 @@ Tasker: 6.2.10-rc
 NovaLauncher: 7.0.57  
 NetGuard: 2.305  
 IrPlus: 1.9.13  
-MyExpenses: 3.4.9  
 Instagram: 275.0.0.27.98  
+MyExpenses: 3.4.9  
 NyxMusicPlayer: 2.2.7  
 VSCO: 324  
 SyncForReddit: v23.06.30-13:39  
