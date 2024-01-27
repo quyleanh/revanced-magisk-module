@@ -1,12 +1,11 @@
-Backdrops: 4.52  
-Spotify: 8.8.96.364  
 Citra: bed6a4f12  
-Messenger: 439.0.0.29.119  
 WarnWetter: 4.2.2  
-Windyapp: 34.0.2  
-TickTick: 7.0.3.2  
-Tasker: 6.2.12-rc  
+Messenger: 442.0.0.25.115  
+Tasker: 6.2.22  
+TickTick: 7.1.1.1  
+NovaLauncher: 7.0.58  
 MyExpenses: 3.4.9  
+Backdrops: 4.52  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
@@ -14,6 +13,6 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.3.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.1.0.apk  
-Patches: ReVanced/revanced-patches-3.2.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v3.2.0)  
+Integrations: ReVanced/revanced-integrations-1.2.0.apk  
+Patches: ReVanced/revanced-patches-4.0.1.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.0.1)  
