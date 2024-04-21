@@ -1,6 +1,6 @@
-Spotify: 8.9.24.633  
+Spotify: 8.9.32.624  
 Backdrops: 4.52  
-WarnWetter: 4.2.2  
+WarnWetter: 5.0.2  
 Tasker: 6.2.22  
 NovaLauncher: 7.0.58  
 NetGuard: 2.328  
@@ -13,7 +13,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
 Changelog:  
-CLI: j-hc/revanced-cli-4.5.0-all.jar  
-Integrations: ReVanced/revanced-integrations-1.7.0.apk  
-Patches: ReVanced/revanced-patches-4.6.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.6.0)  
+CLI: j-hc/revanced-cli-4.6.0-all.jar  
+Integrations: ReVanced/revanced-integrations-1.8.0.apk  
+Patches: ReVanced/revanced-patches-4.7.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.7.0)  
